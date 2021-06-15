@@ -1,0 +1,22 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "123 Skittles Way",
+            "squareFeet": 400,
+            "handicapAccess": true
+        },
+        {
+            "id": 2,
+            "address": "06506 Rigoberto Street",
+            "squareFeet": 1000,
+            "handicapAccess": true
+        },
+        {
+            "id": 3,
+            "address": "40989 Vincenzo Flats",
+            "squareFeet": 800,
+            "handicapAccess": false
+        }
+    ]
+}
