@@ -18,5 +18,39 @@
             "squareFeet": 800,
             "handicapAccess": false
         }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "fun size snickers",
+            "carbs": 20,
+            "productTypeId": 1
+        }
+    ],
+    "productType": [
+        {
+            "id": 1,
+            "name": "chocolate"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Gwynne",
+            "bloodSugarBase": 135,
+            "insulinSensitivity": 13,
+            "carbSensitivity": 5,
+            "productId": [
+                1
+            ]
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Eliza",
+            "locationId": 3,
+            "isManager": true
+        }
     ]
 }
