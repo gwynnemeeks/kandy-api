@@ -25,6 +25,18 @@
             "name": "fun size snickers",
             "carbs": 20,
             "productTypeId": 1
+        },
+        {
+            "id": 2,
+            "name": "starburst",
+            "carbs": 24,
+            "productTypeId": 2
+        },
+        {
+            "id": 3,
+            "name": "spendthrift grapefruit water",
+            "carbs": 4,
+            "productTypeId": 3
         }
     ],
     "productType": [
