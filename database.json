@@ -1,0 +1,88 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "123 Skittles Way",
+            "squareFeet": 400,
+            "handicapAccess": true
+        },
+        {
+            "id": 2,
+            "address": "06506 Rigoberto Street",
+            "squareFeet": 1000,
+            "handicapAccess": true
+        },
+        {
+            "id": 3,
+            "address": "40989 Vincenzo Flats",
+            "squareFeet": 800,
+            "handicapAccess": false
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "fun size snickers",
+            "carbs": 20,
+            "productTypeId": 1
+        },
+        {
+            "id": 2,
+            "name": "starburst",
+            "carbs": 24,
+            "productTypeId": 2
+        },
+        {
+            "id": 3,
+            "name": "spendthrift grapefruit water",
+            "carbs": 4,
+            "productTypeId": 3
+        }
+    ],
+    "productType": [
+        {
+            "id": 1,
+            "name": "chocolate"
+        },
+        {
+            "id": 2,
+            "name": "hard candy"
+        },
+        {
+            "id": 3,
+            "name": "soda"
+        }
+    ],
+    "customers": [
+        {
+            "id": 1,
+            "name": "Gwynne",
+            "bloodSugarBase": 135,
+            "insulinSensitivity": 13,
+            "carbSensitivity": 5,
+            "productId": [
+                1
+            ]
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Eliza",
+            "locationId": 3,
+            "isManager": true
+        },
+        {
+            "id": 2,
+            "name": "Kyle",
+            "locationId": 2,
+            "isManager": false
+        },
+        {
+            "id": 3,
+            "name": "Kaitlyn",
+            "locationId": 1,
+            "isManager": true
+        }
+    ]
+}
