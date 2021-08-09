@@ -71,6 +71,18 @@
             "name": "Eliza",
             "locationId": 3,
             "isManager": true
+        },
+        {
+            "id": 2,
+            "name": "Kyle",
+            "locationId": 2,
+            "isManager": false
+        },
+        {
+            "id": 3,
+            "name": "Kaitlyn",
+            "locationId": 1,
+            "isManager": true
         }
     ]
 }
